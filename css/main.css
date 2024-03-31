@@ -56,11 +56,6 @@ img {
 
 body {
   font-family: "Yanone Kaffeesatz", sans-serif;
-  background-image: url(/img/AdobeStock_207523524.jpg);
-  background-size: no-repeat;
-  background-position: center;
-  background-size: cover;
-  background-color: blueviolet;
 }
 
 a {
@@ -107,6 +102,14 @@ a {
 
 .none {
   display: none;
+}
+
+.main {
+  background-image: url(../img/AdobeStock_207523524.jpg);
+  background-size: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: blueviolet;
 }
 
 @media screen and (min-width: 768px) {
