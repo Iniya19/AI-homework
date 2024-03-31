@@ -121,7 +121,6 @@ a {
         -ms-flex-align: start;
             align-items: flex-start;
     overflow: hidden;
-    padding-top: 60px;
   }
   .hero-box {
     display: -webkit-box;
