@@ -193,6 +193,9 @@ a {
   }
 }
 @media screen and (min-width: 1200px) {
+  .hero {
+    padding-top: 60px;
+  }
   .hero-box {
     display: -webkit-box;
     display: -ms-flexbox;
